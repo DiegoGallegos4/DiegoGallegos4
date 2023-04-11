@@ -1,16 +1,15 @@
-### Hi there 👋
+### ¡Hola! 👋
 
-<!--
-**DiegoGallegos4/DiegoGallegos4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a mechatronic engineer turned software engineer from Honduras 🇭🇳 based in Edinburgh 🇬🇧.
+I've worked for companies such as Amazon, Xapo and Indeed. Currently, serving as VP of engineering at [DEUNA](https://deuna.com) where we are trying to increase conversions and acceptance rates while keeping fraud chargebacks at bay.
 
-Here are some ideas to get you started:
+### Writing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Interests
+
+Nowadays, I am deeply interested in cryptography, specifically in zero knowledge proofs (e.g snarks, starks, applications) and also in low-level programming applied to operating systems (e.g microkernels, vmms).
+
+### How to reach me:
+
+- [Linkedin](https://www.linkedin.com/in/dfgallegos)
+
