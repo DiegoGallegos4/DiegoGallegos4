@@ -16,7 +16,7 @@ Previously, I've worked for companies such as Amazon, Xapo and Indeed.
 
 ### Interests
 
-Currently, a student a Georgia Tech Msc Computer Science program with focus in cryptography and OS. Nowadays, I am deeply interested in zero knowledge proofs (e.g snarks, starks, applications) and also in low-level programming applied to operating systems (e.g microkernels, vmms). 
+Currently, a student a Georgia Tech Msc Computer Science program with focus in cryptography and OS. Nowadays, I am deeply interested in zero knowledge proofs (e.g circuit compilers, snarks) and also in low-level programming applied to operating systems (e.g microkernels, vmms). 
 
 ### How to reach me:
 
